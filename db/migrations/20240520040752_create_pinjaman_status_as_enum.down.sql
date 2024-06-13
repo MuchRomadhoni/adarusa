@@ -1,0 +1,1 @@
+DROP TYPE pinjaman_status;

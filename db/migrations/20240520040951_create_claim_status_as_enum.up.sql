@@ -1,0 +1,1 @@
+CREATE TYPE claim_status AS ENUM('ongoing','done')

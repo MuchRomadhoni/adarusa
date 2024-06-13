@@ -1,0 +1,1 @@
+INSERT INTO limit_pinjaman(max_pinjaman) VALUES (3000000),(6000000),(10000000),(15000000),(20000000)

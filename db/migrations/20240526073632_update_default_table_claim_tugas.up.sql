@@ -1,0 +1,1 @@
+ALTER TABLE claim_tugas ALTER COLUMN status SET DEFAULT 'ongoing';

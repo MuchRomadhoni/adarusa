@@ -1,0 +1,1 @@
+CREATE TYPE user_status AS ENUM('verified','unverified','rejected')

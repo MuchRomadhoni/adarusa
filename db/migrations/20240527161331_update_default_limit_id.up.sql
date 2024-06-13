@@ -1,0 +1,1 @@
+ALTER TABLE detail_users ALTER COLUMN limit_id SET DEFAULT 1;

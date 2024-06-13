@@ -1,0 +1,1 @@
+CREATE TYPE midtrans_status AS ENUM('pending','success');

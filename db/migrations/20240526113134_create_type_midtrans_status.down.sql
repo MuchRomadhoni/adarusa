@@ -1,0 +1,1 @@
+DROP TYPE midtrans_status;

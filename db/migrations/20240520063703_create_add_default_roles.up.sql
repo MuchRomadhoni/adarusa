@@ -1,0 +1,1 @@
+INSERT INTO roles (roles_name) VALUES ('admin'),('debitur'),('dc')

@@ -1,0 +1,1 @@
+DROP TYPE  claim_status;
